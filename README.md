@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 <div align="center">
-<img src = "https://raw.githubusercontent.com/SanGameDev/SanGameDev/d30b296b0cf239ad535e017ef5e43ff4d5d26485/gitartwork.svg"
 
 <div id="header" align="center">
   <h1>
-  Hi there, I'm Krishna Agarwal
+  Hi there, I'm Santiago Vaca
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanGameDev)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 <!--
