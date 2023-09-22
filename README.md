@@ -43,7 +43,10 @@ I work in [Yepah](https://yepah.com) since December 2022 and i have made tree mi
 
 ---
 
-## Udemy Courses im taking or i have taken
+## Udemy Courses im taking
 
 - [ ] [Blender 3.X: Modelado y texturizado enfocado a videojuegos](https://www.udemy.com/share/101qsU3@BEsi7S18rl7tWSjq4jPVju3Emtvv_bsoPm_MkOMLi6zu6jIpS2Wz42I22idJzqQBuQ==/)
+
+## Udemy Courses i have taken
+    
 - [x] [Máster en Programación de Videojuegos con Unity® 2021 y C#](https://www.udemy.com/share/1013eQ3@uYJnye74z7rZ8H0SR_yLvB2V55MXcsmVxaJarZrCu3YyZ5oUy08iXgBhwy--pVZCUg==/)
