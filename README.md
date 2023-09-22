@@ -13,7 +13,7 @@ I'm a programming student with a great interest in the development of video game
 ---
 
 ## Experience 
-I work in [Yepah](https://yepah.com) since December 2022 and i have made one minigame for them and i have two in development and testing
+I work in [Yepah](https://yepah.com) since December 2022 and i have made tree minigame for them one full developed and i have two in development and testing
 
 ---
 
