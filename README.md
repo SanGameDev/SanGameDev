@@ -15,6 +15,9 @@ I'm a programming student with a great interest in the development of video game
 ## Experience 
 I work in [Yepah](https://yepah.com) since December 2022 and i have made tree minigame for them one full developed and i have two in development and testing
 
+##Education
+Im studying in UNiAT in the area of Programing and development of videogames
+
 ---
 
 ## Skills
