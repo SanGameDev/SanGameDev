@@ -2,7 +2,7 @@
   
 
 ## About me
-I'm a programming student with a great interest in the development of video games and the desire to make my own video games.
+"Hello, I'm Santiago Vaca, and I have a passion for both gaming and game development. By day, I'm part of the creative team at Yepah, where I design and create mini-games. It's an exciting role that allows me to combine my love for technology and gaming, turning ideas into interactive experiences. When I'm not crafting digital adventures, you can usually find me exploring virtual worlds or challenging my skills in various video games. Gaming has always been a big part of my life, providing not only entertainment but also a way to connect with others and unleash my creativity. Whether it's solving puzzles, battling foes, or embarking on epic journeys, I'm always up for a gaming adventure. So, if you share the same love for gaming or have a project in mind, feel free to reach out and let's chat!"
 
 ### Contact 
 
