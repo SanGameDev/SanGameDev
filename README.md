@@ -8,7 +8,6 @@
 
 - +52 33 1802 6539
 - santiago.gamedevs@gmail.com
-- santiago.gamedevs@gmail.com
 - [My Itch.io](https://vaca-games.itch.io)
 ---
 
