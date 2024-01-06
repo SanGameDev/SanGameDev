@@ -45,6 +45,8 @@ Im studying in UNIAT in the area of Programing and development of videogames, an
 
 ---
 
+Check my certificates on the carpet " [Certificates(https://github.com/SanGameDev/SanGameDev/tree/main/Certificates)] "
+
 ## Udemy Courses im taking
 
 - [ ] [Blender 3.X: Modelado y texturizado enfocado a videojuegos](https://www.udemy.com/share/101qsU3@BEsi7S18rl7tWSjq4jPVju3Emtvv_bsoPm_MkOMLi6zu6jIpS2Wz42I22idJzqQBuQ==/)
@@ -52,4 +54,4 @@ Im studying in UNIAT in the area of Programing and development of videogames, an
 
 ## Udemy Courses i have taken
     
-
+- [x] [Master Pixel Art - Beginner to Professional(https://www.udemy.com/share/1071W03@6Djs-kXQDChPJL6so2VsUwGxM5xGtPdfadGkP82u5C-vvn4ghn6tz9UB1FCEMIA64g==/)]
