@@ -1,3 +1,3 @@
 
 
-![Master Pixel Art - Beginner to Professional](/PDFs/MasterPixelArt-BeginnerToProfessionalCertificate.jpg)
+![Master Pixel Art - Beginner to Professional](/Certificates/PDFs/MasterPixelArt-BeginnerToProfessionalCertificate.jpg)
