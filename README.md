@@ -45,7 +45,7 @@ Im studying in UNIAT in the area of Programing and development of videogames, an
 
 ---
 
-Check my certificates on the carpet " [Certificates(https://github.com/SanGameDev/SanGameDev/tree/main/Certificates)] "
+Check my certificates on the carpet " [Certificates](https://github.com/SanGameDev/SanGameDev/tree/main/Certificates) "
 
 ## Udemy Courses im taking
 
@@ -54,4 +54,4 @@ Check my certificates on the carpet " [Certificates(https://github.com/SanGameDe
 
 ## Udemy Courses i have taken
     
-- [x] [Master Pixel Art - Beginner to Professional(https://www.udemy.com/share/1071W03@6Djs-kXQDChPJL6so2VsUwGxM5xGtPdfadGkP82u5C-vvn4ghn6tz9UB1FCEMIA64g==/)]
+- [x] [Master Pixel Art - Beginner to Professional](https://www.udemy.com/share/1071W03@6Djs-kXQDChPJL6so2VsUwGxM5xGtPdfadGkP82u5C-vvn4ghn6tz9UB1FCEMIA64g==/)
