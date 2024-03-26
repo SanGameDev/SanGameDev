@@ -15,7 +15,7 @@
 I work in [Yepah](https://yepah.com) and i have been developing and programming some minigames for them, of which all of them have been published, and with others being in the process of developing
 
 ## Education
-Im studying in UNIAT in the area of Programing and development of videogames, and im in the 7 semester of college.
+Im studying in UNIAT in the area of Programing and development of videogames, and im in the 8 semester of college.
 
 ---
 
