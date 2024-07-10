@@ -8,7 +8,7 @@
 
 - +52 33 1802 6539
 - santiago.gamedevs@gmail.com
-- [My socials](https://linktr.ee/SanGameDev)
+- [My Notion Web Page](https://bedecked-suede-a74.notion.site/SanGameDev-674f01f55f014db78bfe365a4ef4c7fa)
 ---
 
 ## Experience 
